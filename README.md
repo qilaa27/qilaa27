@@ -4,22 +4,6 @@ I'm an undergraduate Data Science student at **BINUS University** passionate abo
 - 🤖 Machine Learning & Deep Learning  
 - 📊 Data Visualization & Analysis 
 
-## 🧩 Skills & Tools
+My daily toolkit includes **Python**, **C**, and **R** for building programs and managing data. I develop machine learning and deep learning models using **Scikit-learn**, **TensorFlow**, and **Keras**, and love transforming raw data into insights with **Pandas**, **NumPy**, **Matplotlib**, and **Streamlit**.
 
-**Languages**  
-Python, C, R
-
-**Machine Learning & AI**  
-Scikit-learn, TensorFlow, Keras, PyTorch
-
-**Data Handling**  
-Pandas, NumPy
-
-**Visualization**  
-Matplotlib, Seaborn, Streamlit
-
-**Web / Deployment**  
-FastAPI, HTML5, CSS3, JavaScript
-
-**Design / Prototyping**  
-Figma
+For web development, I build dynamic applications with **FastAPI**, **HTML5**, **CSS3**, and **JavaScript**, while refining interfaces with **Figma** for a smooth user experience.
